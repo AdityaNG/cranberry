@@ -1,0 +1,6 @@
+include LICENSE
+include HISTORY.md
+include Containerfile
+recursive-include cranberry_gpt/docker *
+graft tests
+graft cranberry_gpt

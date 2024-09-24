@@ -1,0 +1,2 @@
+[run]
+omit = cranberry_gpt/mingpt/bpe.py,cranberry_gpt/mingpt/utils.py,cranberry_gpt/sweep.py,cranberry_gpt/kan/KAN.py

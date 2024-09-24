@@ -1,0 +1,5 @@
+setuptools>=65.5.0
+tqdm>=4.66.2
+docker
+paramiko
+vncdotool
